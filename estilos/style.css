@@ -85,10 +85,11 @@ div.campo > span {
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.603);
     font-size: 1.8em;
     width: 40px;
+    height: 40px;
     padding: 5px;
 }
 div.campo > input{
-    background-color:#4e1584b0;
+    background-color:#e0beffb0;
     font-size: 1em;
     width: calc(100% - 50px);
     height: calc(100% - 18px);
